@@ -16,9 +16,9 @@ $icon-color: rgba($black, 0.5) !default;
 $mdb-input-placeholder-color: #AAAAAA !default;
 $mdb-input-underline-color: #D2D2D2 !default;
 
-$mdb-input-font-size-base: 14px !default;
-$mdb-input-font-size-large: ceil(($font-size-base * 1.25)) !default; // ~20px
-$mdb-input-font-size-small: ceil(($font-size-base * 0.75)) !default; // ~12px
+$mdb-input-font-size-base: 0.875rem !default;
+$mdb-input-font-size-large: 1.25rem !default; // ~20px
+$mdb-input-font-size-small: 0.75rem !default; // ~12px
 
 $bmd-bmd-label-static-size-ratio: 75 / 100 !default;
 $bmd-help-size-ratio: 75 / 100 !default;
@@ -153,16 +153,16 @@ $padding-card-body-y: 0.9375rem !default;
 $padding-card-body-x: 1.875rem !default;
 
 // Buttons:
-$mdb-btn-font-size-base: 12px !default;
-$mdb-btn-font-size-lg: 14px !default;
-$mdb-btn-font-size-sm: 11px !default;
-$mdb-btn-font-size-xs: 10px !default;
+$mdb-btn-font-size-base: 0.75rem !default;
+$mdb-btn-font-size-lg: 0.875rem !default;
+$mdb-btn-font-size-sm: 0.6875rem !default;
+$mdb-btn-font-size-xs: 0.625rem !default;
 
 $mdb-btn-fab-size: 41px !default;
 $mdb-btn-fab-size-lg: 56px !default;
 $mdb-btn-fab-size-mini: 29px !default;
-$mdb-btn-fab-font-size: 24px !default;
-$mdb-btn-just-icon-font-size: 20px !default;
+$mdb-btn-fab-font-size: 1.5rem !default;
+$mdb-btn-just-icon-font-size: 1.25rem !default;
 
 $mdb-btn-icon-size: 32px !default;
 $mdb-btn-icon-size-mini: 17px !default;
